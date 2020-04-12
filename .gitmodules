@@ -1,0 +1,4 @@
+[submodule "upm"]
+	path = Assets/ExcelDataReader
+	url = https://github.com/iDreamsOfGame/ExcelDataReader.git
+	branch = upm
