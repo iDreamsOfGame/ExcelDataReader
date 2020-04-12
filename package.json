@@ -1,0 +1,12 @@
+{
+	"name": "com.github.exceldatareader.exceldatareader",
+	"displayName": "ExcelDataReader",
+	"description": "Lightweight and fast library written in C# for reading Microsoft Excel files.",
+	"version": "3.6.0",
+	"unity": "2018.3",
+	"author": {
+		"name": "ExcelDataReader",
+		"url": "https://github.com/ExcelDataReader"
+	},
+	"license": "MIT"
+}
